@@ -1,0 +1,14 @@
+{
+    "trainNumber": "1337",
+    "departureStation": "Tarnów",
+    "arrivalStation": "Kraków Główny",
+    "departureTime": "2024-12-01 T17:00",
+    "arrivalTime": "2024-12-01 T18:00",
+    "seat": {
+        "coach": "16",
+        "number": 56
+    },
+    "passenger": "Milosz",
+    "price": 16.99,
+    "isRefundable": true
+}

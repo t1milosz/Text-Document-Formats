@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>milosz.kiebala@example.com</sender>
+    <recipient>lee.sang@example.com</recipient>
+    <subject>HNY</subject>
+    <content>
+        Dear Lee,
+        <body>
+            Happy New Year!
+        </body>
+        <signature>
+            Best regards,
+            Milosz
+        </signature>
+    </content>
+</email>

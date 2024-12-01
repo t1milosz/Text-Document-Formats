@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Samsung" model="Galaxy S23" releaseYear="2023">
+        <specs>
+            <screenSize unit="inch">6.2</screenSize>
+            <batteryCapacity unit="mAh">3700</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">50</camera>
+        </specs>
+        <price currency="USD">799</price>
+    </smartphone>
+    <smartphone brand="Nothing" model="Phone 1" releaseYear="2022">
+        <specs>
+            <screenSize unit ="inch">6.55</screenSize>
+            <batteryCapacity unit="mAh">4500</batteryCapacity>
+            <storage unit="GB">256</storage>
+            <camera unit="MP">50</camera>
+        </specs> 
+        <price currency="USD">639</price>
+        </smartphone>
+</smartphones>

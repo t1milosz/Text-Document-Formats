@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Mazda</brand>
+        <model>Mx5</model>
+        <year>2020</year>
+        <capacity>5</capacity>
+    </vehicle>
+    <vehicle type="Bicycle" fuel="None">
+        <brand>Kross</brand>
+        <model>Hexagon</model>
+        <year>2021</year>
+        <capacity>1</capacity>
+    </vehicle>
+    <vehicle type="Train" fuel="Electric">
+        <operator>PKP Intercity</operator>
+        <route>Rzeszow - Krakow</route>
+        <year>2020</year>
+        <capacity>150</capacity>
+    </vehicle>
+</transport>

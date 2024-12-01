@@ -1,0 +1,14 @@
+{
+  "brand": "Dell",
+  "model": "Inspiron 15",
+  "year": 2023,
+  "isTouchscreen": false,
+  "devices": ["touchpad", "webcam"],
+  "processor": "Intel Core i5",           
+  "ram": 32,                            
+  "dimensions": {                        
+    "width": 32,
+    "depth": 25,
+    "height": 2.0
+  }
+}
